@@ -1,0 +1,137 @@
+*{
+    font-family: 'Courier New', Courier;
+    background-color: #fff;
+    scroll-behavior:smooth;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+p{
+    width: 70%;
+    margin-top: 3%;
+    font-size: 20px;
+}
+h2{
+    color: #4f46e5;
+    font-size: 35px;
+}
+h3{
+    font-size: 25px
+}
+#navbar{
+    position:;
+}
+#nav-elements{
+    display:inline-block;
+}
+.nav-links{
+    
+}
+/*-------Part1-----------*/
+#picture{
+    border-radius: 50px;
+    width: 350px;
+    margin-top: -15%;
+    margin-left: -35%;
+    position: absolute;
+}
+.bitcoin{
+    transition: 0.3s;
+    width: 150px; 
+    position: absolute; 
+    margin-top: -12%; 
+    margin-left: 25%; 
+    opacity: 0.06;
+    cursor: pointer;
+}
+.bitcoin:hover{
+    opacity: 1;
+}
+#part1{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    margin-left: 45%;
+}
+.part1-text h1{
+    font-size: 50px;
+}
+.part1-text h3{
+    color: #494F55;
+    font-size: 25px;
+    margin-left: 10%;
+}
+.part1-buttons{
+    margin-top: 7%;
+    margin-left: 23%;
+    font-weight: 1000;
+}
+.part1-buttons a:hover{
+    
+}
+#part1 a{
+    
+}
+
+/*------Part2-------*/
+#part2{
+    margin-top: 10%;
+    margin-bottom: 25%;
+}
+.part2-text h2{
+    
+}
+.part2-text p{
+    
+}
+.ethereum{
+    transition: 0.3s;
+    width: 120px; 
+    position: absolute; 
+    margin-top: 5%; 
+    margin-left: 25%; 
+    opacity:0.06;
+    cursor: pointer;
+}
+.ethereum:hover{
+    opacity: 1;
+}
+
+/*------Part3----------*/
+.project1 h3{
+    
+}
+.project1, .project2, .project3{
+    
+}
+.project1, .project2, .project3 p{
+    width: 45%;
+}
+#projects{
+    display: inline-block;
+    margin-left: 2%;
+}
+.matic{
+    transition: 0.3s;
+    width: 120px; 
+    position: absolute; 
+    margin-top: -10%; 
+    margin-left: 10%; 
+    opacity:0.06;
+    cursor: pointer;
+}
+.matic:hover{
+    opacity: 1;
+}
+/*------Part4-------*/
+#part4{
+    margin-top: 10%;
+}
+.part4-text a{
+    background-color: rgb(215, 218, 49); 
+    color: black; 
+    border: 2px solid rgb(215, 218, 49); 
+    padding: 10px; 
+    border-radius: 10px; 
+    margin-left: 5%;
+}
